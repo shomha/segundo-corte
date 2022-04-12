@@ -1,0 +1,23 @@
+.name{
+    width: auto;
+    height: 300px;
+    background: rgb(128, 119, 211);;
+    margin: 100px;
+    padding: 3px 10px;
+    border: rgb(0, 0, 0) 15px double;
+    border-top-left-radius: 50px;
+    border-bottom-right-radius: 50px;  
+}
+.h1{
+    color:black;
+    text-align: center;
+    font-size: 3cm;
+}
+.body{
+    background:rgb(251, 253, 253);
+    
+}
+.table{
+    margin: 100px;
+    width: 90%;
+}
